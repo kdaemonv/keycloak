@@ -1,0 +1,3 @@
+com.kdv.keycloak.provider.mongo.MongoUserStorageProviderFactory
+org.keycloak.examples.userstorage.readonly.PropertyFileUserStorageProviderFactory
+org.keycloak.examples.userstorage.writeable.PropertyFileUserStorageProviderFactory
