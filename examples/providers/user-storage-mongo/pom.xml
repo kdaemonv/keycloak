@@ -62,7 +62,6 @@
             <groupId>org.mongodb</groupId>
             <artifactId>mongodb-driver</artifactId>
             <version>3.6.3</version>
-            <scope>provided</scope>
         </dependency>
     </dependencies>
 
@@ -83,17 +82,16 @@
                 <configuration>
                     <skip>false</skip>
                 </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-shade-plugin</artifactId>
+                <version>3.0.0</version>
                 <executions>
                     <execution>
-                        <id>deploy-mongodb-driver</id>
-                        <phase>install</phase>
-                        <configuration>
-                            <groupId>org.mongodb</groupId>
-                            <artifactId>mongodb-driver</artifactId>
-                            <name>mongodb-driver.jar</name>
-                        </configuration>
+                        <phase>package</phase>
                         <goals>
-                            <goal>deploy-artifact</goal>
+                            <goal>shade</goal>
                         </goals>
                     </execution>
                 </executions>
