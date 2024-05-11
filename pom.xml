@@ -54,7 +54,7 @@
         <jboss.as.version>7.2.0.Final</jboss.as.version>
 
         <aesh.version>0.66.19</aesh.version>
-        <apache.httpcomponents.version>4.5.2</apache.httpcomponents.version>
+        <apache.httpcomponents.version>4.5.14</apache.httpcomponents.version>
         <apache.httpcomponents.httpcore.version>4.4.4</apache.httpcomponents.httpcore.version>
         <apache.mime4j.version>0.6</apache.mime4j.version>
         <jboss.dmr.version>1.4.1.Final</jboss.dmr.version>
