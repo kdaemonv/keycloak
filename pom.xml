@@ -63,7 +63,7 @@
         <dom4j.version>1.6.1</dom4j.version>
         <github.relaxng.version>2011.1</github.relaxng.version>
         <h2.version>1.4.193</h2.version>
-        <hibernate.entitymanager.version>5.1.13.Final</hibernate.entitymanager.version>
+        <hibernate.entitymanager.version>5.6.15.Final</hibernate.entitymanager.version>
         <hibernate.javax.persistence.version>1.0.0.Final</hibernate.javax.persistence.version>
         <infinispan.version>8.2.10.Final</infinispan.version>
         <jackson.version>2.8.11</jackson.version>
