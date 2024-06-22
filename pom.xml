@@ -44,7 +44,7 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         <maven.compiler.source>1.7</maven.compiler.source>
 
-        <wildfly.version>11.0.0.Final</wildfly.version>
+        <wildfly.version>32.0.0.Final</wildfly.version>
         <wildfly.build-tools.version>1.2.2.Final</wildfly.build-tools.version>
         <eap.version>7.1.2.GA-redhat-1</eap.version>
         <eap.build-tools.version>1.2.2.Final</eap.build-tools.version>
@@ -81,7 +81,7 @@
         <sun.istack.version>2.21</sun.istack.version>
         <sun.jaxb.version>2.2.11</sun.jaxb.version>
         <sun.xsom.version>20140925</sun.xsom.version>
-        <undertow.version>1.4.18.Final</undertow.version>
+        <undertow.version>2.3.14.Final</undertow.version>
         <elytron.version>1.1.9.Final</elytron.version>
         <elytron.undertow-server.version>1.0.1.Final</elytron.undertow-server.version>
         <woodstox.version>5.0.3</woodstox.version>
