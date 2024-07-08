@@ -29,9 +29,9 @@
 	<artifactId>keycloak-saml-tomcat8-adapter</artifactId>
 	<name>Keycloak Tomcat 8 SAML Integration</name>
     <properties>
-        <tomcat.version>8.0.14</tomcat.version>
+        <tomcat.version>9.0.90</tomcat.version>
     </properties>
-	<description />
+	<description/>
 
 	<dependencies>
         <dependency>
