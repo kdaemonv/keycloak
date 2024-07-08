@@ -30,9 +30,9 @@
     <name>Keycloak Security Proxy TestSuite</name>
     <properties>
         <!--<tomcat.version>8.0.14</tomcat.version>-->
-        <tomcat.version>7.0.54</tomcat.version>
+        <tomcat.version>9.0.90</tomcat.version>
     </properties>
-    <description />
+    <description/>
 
    <dependencies>
         <dependency>
