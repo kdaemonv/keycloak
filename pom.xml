@@ -81,7 +81,7 @@
         <sun.istack.version>2.21</sun.istack.version>
         <sun.jaxb.version>2.2.11</sun.jaxb.version>
         <sun.xsom.version>20140925</sun.xsom.version>
-        <undertow.version>1.4.18.Final</undertow.version>
+        <undertow.version>2.3.8.Final</undertow.version>
         <elytron.version>1.1.9.Final</elytron.version>
         <elytron.undertow-server.version>1.0.1.Final</elytron.undertow-server.version>
         <woodstox.version>5.0.3</woodstox.version>
