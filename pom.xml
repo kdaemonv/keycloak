@@ -83,7 +83,7 @@
         <sun.xsom.version>20140925</sun.xsom.version>
         <undertow.version>1.4.18.Final</undertow.version>
         <elytron.version>1.1.9.Final</elytron.version>
-        <elytron.undertow-server.version>1.0.1.Final</elytron.undertow-server.version>
+        <elytron.undertow-server.version>4.1.0.Final</elytron.undertow-server.version>
         <woodstox.version>5.0.3</woodstox.version>
         <xmlsec.version>2.0.9</xmlsec.version>
         <glassfish.json.version>1.0.4</glassfish.json.version>
