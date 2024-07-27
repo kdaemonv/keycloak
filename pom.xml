@@ -67,7 +67,7 @@
         <hibernate.javax.persistence.version>1.0.0.Final</hibernate.javax.persistence.version>
         <infinispan.version>8.2.10.Final</infinispan.version>
         <jackson.version>2.8.11</jackson.version>
-        <jackson.databind.version>2.8.11</jackson.databind.version>
+        <jackson.databind.version>2.15.0</jackson.databind.version>
         <javax.mail.version>1.5.5</javax.mail.version>
         <jboss.logging.version>3.3.1.Final</jboss.logging.version>
         <jboss.logging.tools.version>2.0.1.Final</jboss.logging.tools.version>
