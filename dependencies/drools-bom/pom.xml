@@ -22,7 +22,7 @@
         <antlr-runtime.version>3.5</antlr-runtime.version>
         <ant.version>1.8.3</ant.version>
         <maven.version>3.2.5</maven.version>
-        <wagon.version>2.6</wagon.version>
+        <wagon.version>3.5.3</wagon.version>
         <plexus-classworlds.version>2.5.2</plexus-classworlds.version>
         <plexus-component-annotations.version>1.5.5</plexus-component-annotations.version>
         <plexus-interpolation.version>1.21</plexus-interpolation.version>
