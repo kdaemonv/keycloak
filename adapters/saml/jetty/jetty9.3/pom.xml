@@ -29,7 +29,7 @@
 	<artifactId>keycloak-saml-jetty93-adapter</artifactId>
 	<name>Keycloak Jetty 9.3.x SAML Integration</name>
     <properties>
-        <jetty9.version>9.3.9.v20160517</jetty9.version>
+        <jetty9.version>12.0.12</jetty9.version>
         <keycloak.osgi.export>
             org.keycloak.adapters.jetty.*
         </keycloak.osgi.export>
@@ -40,7 +40,7 @@
             *;resolution:=optional
         </keycloak.osgi.import>
     </properties>
-	<description />
+	<description/>
 
 	<dependencies>
         <dependency>
