@@ -44,11 +44,11 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         <maven.compiler.source>1.7</maven.compiler.source>
 
-        <wildfly.version>11.0.0.Final</wildfly.version>
+        <wildfly.version>19.0.0.Final</wildfly.version>
         <wildfly.build-tools.version>1.2.2.Final</wildfly.build-tools.version>
         <eap.version>7.1.2.GA-redhat-1</eap.version>
         <eap.build-tools.version>1.2.2.Final</eap.build-tools.version>
-        <wildfly.core.version>3.0.10.Final</wildfly.core.version>
+        <wildfly.core.version>23.0.2.Final</wildfly.core.version>
         <wildfly10.core.version>2.0.10.Final</wildfly10.core.version>
 
         <jboss.as.version>7.2.0.Final</jboss.as.version>
