@@ -59,7 +59,7 @@
         <apache.mime4j.version>0.6</apache.mime4j.version>
         <jboss.dmr.version>1.4.1.Final</jboss.dmr.version>
         <bouncycastle.version>1.56</bouncycastle.version>
-        <cxf.version>3.1.13</cxf.version>
+        <cxf.version>4.1.0</cxf.version>
         <dom4j.version>1.6.1</dom4j.version>
         <github.relaxng.version>2011.1</github.relaxng.version>
         <h2.version>1.4.193</h2.version>
