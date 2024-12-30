@@ -93,7 +93,7 @@
         <version.org.drools>6.5.0.Final</version.org.drools>
 
         <!-- Others -->
-        <apacheds.version>2.0.0-M21</apacheds.version>
+        <apacheds.version>2.0.0.AM27</apacheds.version>
         <apacheds.codec.version>1.0.0-M33</apacheds.codec.version>
         <google.zxing.version>3.2.1</google.zxing.version>
         <freemarker.version>2.3.26-incubating</freemarker.version>
