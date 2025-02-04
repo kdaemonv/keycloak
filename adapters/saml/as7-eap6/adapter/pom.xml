@@ -88,7 +88,7 @@
             <groupId>org.infinispan</groupId>
             <artifactId>infinispan-cachestore-remote</artifactId>
             <scope>provided</scope>
-            <version>5.2.20.Final</version> <!-- override version to match EAP's -->
+            <version>9.4.1.Final</version> <!-- override version to match EAP's -->
         </dependency>
         <dependency>
             <groupId>org.keycloak</groupId>
